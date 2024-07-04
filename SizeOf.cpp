@@ -1,6 +1,6 @@
 // Autor: Axel Molineros
 // Fecha: 01-07-2024
-// 
+// Tema: Orden Secuencial con SizeOf
 
 #include <iostream>
 using namespace std;
